@@ -1,0 +1,11 @@
+C:\Users\Adem\source\repos\TestFramework\Log4Net.Console\obj\Debug\Log4Net.Console.csproj.AssemblyReference.cache
+C:\Users\Adem\source\repos\TestFramework\Log4Net.Console\obj\Debug\Log4Net.Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adem\source\repos\TestFramework\Log4Net.Console\obj\Debug\Log4Net.Console.csproj.CoreCompileInputs.cache
+C:\Users\Adem\source\repos\TestFramework\Log4Net.Console\bin\Debug\Log4Net.Console.exe.config
+C:\Users\Adem\source\repos\TestFramework\Log4Net.Console\bin\Debug\Log4Net.Console.exe
+C:\Users\Adem\source\repos\TestFramework\Log4Net.Console\bin\Debug\Log4Net.Console.pdb
+C:\Users\Adem\source\repos\TestFramework\Log4Net.Console\bin\Debug\log4net.dll
+C:\Users\Adem\source\repos\TestFramework\Log4Net.Console\bin\Debug\log4net.xml
+C:\Users\Adem\source\repos\TestFramework\Log4Net.Console\obj\Debug\Log4Net.Console.csproj.CopyComplete
+C:\Users\Adem\source\repos\TestFramework\Log4Net.Console\obj\Debug\Log4Net.Console.exe
+C:\Users\Adem\source\repos\TestFramework\Log4Net.Console\obj\Debug\Log4Net.Console.pdb

@@ -1,0 +1,10 @@
+C:\Users\Adem\source\repos\TestFramework\KingAOPTesting\bin\Debug\KingAOPTesting.exe.config
+C:\Users\Adem\source\repos\TestFramework\KingAOPTesting\bin\Debug\KingAOPTesting.exe
+C:\Users\Adem\source\repos\TestFramework\KingAOPTesting\bin\Debug\KingAOPTesting.pdb
+C:\Users\Adem\source\repos\TestFramework\KingAOPTesting\bin\Debug\KingAOP.dll
+C:\Users\Adem\source\repos\TestFramework\KingAOPTesting\obj\Debug\KingAOPTesting.csproj.AssemblyReference.cache
+C:\Users\Adem\source\repos\TestFramework\KingAOPTesting\obj\Debug\KingAOPTesting.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adem\source\repos\TestFramework\KingAOPTesting\obj\Debug\KingAOPTesting.csproj.CoreCompileInputs.cache
+C:\Users\Adem\source\repos\TestFramework\KingAOPTesting\obj\Debug\KingAOPTesting.csproj.CopyComplete
+C:\Users\Adem\source\repos\TestFramework\KingAOPTesting\obj\Debug\KingAOPTesting.exe
+C:\Users\Adem\source\repos\TestFramework\KingAOPTesting\obj\Debug\KingAOPTesting.pdb

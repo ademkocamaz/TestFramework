@@ -1,0 +1,24 @@
+{
+  "DateTime": "2022-04-29T21:33:13.5568035+03:00",
+  "UserName": "Sony\\Adem",
+  "MessageObject": "Merhaba"
+}
+{
+  "DateTime": "2022-04-29T21:33:13.7474049+03:00",
+  "UserName": "Sony\\Adem",
+  "MessageObject": "This is a error"
+}
+System.Exception: Exception!
+   konum: Log4Net.Form1.Form1_Load(Object sender, EventArgs e) C:\Users\Adem\source\repos\TestFramework\Log4Net\Form1.cs içinde: satýr 27
+{
+  "DateTime": "2022-04-29T21:34:00.5802954+03:00",
+  "UserName": "Sony\\Adem",
+  "MessageObject": "Merhaba"
+}
+{
+  "DateTime": "2022-04-29T21:34:00.7206956+03:00",
+  "UserName": "Sony\\Adem",
+  "MessageObject": "This is a error"
+}
+System.Exception: Exception!
+   konum: Log4Net.Form1.Form1_Load(Object sender, EventArgs e) C:\Users\Adem\source\repos\TestFramework\Log4Net\Form1.cs içinde: satýr 27

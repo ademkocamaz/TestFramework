@@ -1,0 +1,11 @@
+C:\Users\Adem\source\repos\TestFramework\GetIpAddress\bin\Debug\GetIpAddress.exe.config
+C:\Users\Adem\source\repos\TestFramework\GetIpAddress\bin\Debug\GetIpAddress.exe
+C:\Users\Adem\source\repos\TestFramework\GetIpAddress\bin\Debug\GetIpAddress.pdb
+C:\Users\Adem\source\repos\TestFramework\GetIpAddress\obj\Debug\GetIpAddress.csproj.AssemblyReference.cache
+C:\Users\Adem\source\repos\TestFramework\GetIpAddress\obj\Debug\GetIpAddress.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adem\source\repos\TestFramework\GetIpAddress\obj\Debug\GetIpAddress.csproj.CoreCompileInputs.cache
+C:\Users\Adem\source\repos\TestFramework\GetIpAddress\obj\Debug\GetIpAddress.exe
+C:\Users\Adem\source\repos\TestFramework\GetIpAddress\obj\Debug\GetIpAddress.pdb
+C:\Users\Adem\source\repos\TestFramework\Build\Debug\GetIpAddress.exe.config
+C:\Users\Adem\source\repos\TestFramework\Build\Debug\GetIpAddress.exe
+C:\Users\Adem\source\repos\TestFramework\Build\Debug\GetIpAddress.pdb

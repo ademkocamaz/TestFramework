@@ -1,0 +1,9 @@
+C:\Users\Adem\source\repos\TestFramework\Build\Debug\DownloadAndExtract.exe.config
+C:\Users\Adem\source\repos\TestFramework\Build\Debug\DownloadAndExtract.exe
+C:\Users\Adem\source\repos\TestFramework\Build\Debug\DownloadAndExtract.pdb
+C:\Users\Adem\source\repos\TestFramework\DownloadAndExtract\obj\Debug\DownloadAndExtract.csproj.AssemblyReference.cache
+C:\Users\Adem\source\repos\TestFramework\DownloadAndExtract\obj\Debug\DownloadAndExtract.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adem\source\repos\TestFramework\DownloadAndExtract\obj\Debug\DownloadAndExtract.csproj.CoreCompileInputs.cache
+C:\Users\Adem\source\repos\TestFramework\DownloadAndExtract\obj\Debug\DownloadAndExtract.exe
+C:\Users\Adem\source\repos\TestFramework\DownloadAndExtract\obj\Debug\DownloadAndExtract.pdb
+C:\Users\Adem\source\repos\TestFramework\DownloadAndExtract\obj\Debug\DownloadAndExtract.csproj.CopyComplete
