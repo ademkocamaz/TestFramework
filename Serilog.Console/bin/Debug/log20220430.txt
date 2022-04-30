@@ -1,18 +1,8 @@
-2022-04-30 04:44:42.123 +03:00 [INF] Hello, Serilog!
-2022-04-30 04:45:35.359 +03:00 [INF] Hello, Serilog!
-2022-04-30 04:47:24.392 +03:00 [INF] Hello, Serilog!
-2022-04-30 04:47:25.946 +03:00 [ERR] Hata oluştu.
-System.Exception: 'System.Exception' türünde özel durum oluşturuldu.
-   konum: Serilog.Console.Program.Main(String[] args) C:\Users\Adem\Documents\GitHub\TestFramework\Serilog.Console\Program.cs içinde: satır 26
-2022-04-30 04:48:15.245 +03:00 [INF] Hello, Serilog!
-2022-04-30 04:48:15.290 +03:00 [ERR] Hata oluştu.
-System.Exception: 'System.Exception' türünde özel durum oluşturuldu.
-   konum: Serilog.Console.Program.Main(String[] args) C:\Users\Adem\Documents\GitHub\TestFramework\Serilog.Console\Program.cs içinde: satır 26
-2022-04-30 04:58:27.888 +03:00 [INF] Hello, Serilog!
-2022-04-30 04:58:28.015 +03:00 [ERR] Hata oluştu.
+2022-04-30 17:57:10.134 +03:00 [INF] Hello, Serilog!
+2022-04-30 17:57:10.181 +03:00 [ERR] Hata oluştu.
 System.Exception: 'System.Exception' türünde özel durum oluşturuldu.
    konum: Serilog.Console.Program.Main(String[] args) C:\Users\Adem\Documents\GitHub\TestFramework\Serilog.Console\Program.cs içinde: satır 30
-2022-04-30 05:12:14.346 +03:00 [INF] Hello, Serilog!
-2022-04-30 05:12:14.403 +03:00 [ERR] Hata oluştu.
+2022-04-30 18:00:18.973 +03:00 [INF] Hello, Serilog!
+2022-04-30 18:00:19.019 +03:00 [ERR] Hata oluştu.
 System.Exception: 'System.Exception' türünde özel durum oluşturuldu.
    konum: Serilog.Console.Program.Main(String[] args) C:\Users\Adem\Documents\GitHub\TestFramework\Serilog.Console\Program.cs içinde: satır 30
