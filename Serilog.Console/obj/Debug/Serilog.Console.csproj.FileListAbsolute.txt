@@ -14,3 +14,5 @@ C:\Users\Adem\Documents\GitHub\TestFramework\Serilog.Console\obj\Debug\Serilog.C
 C:\Users\Adem\Documents\GitHub\TestFramework\Serilog.Console\obj\Debug\Serilog.Console.csproj.CopyComplete
 C:\Users\Adem\Documents\GitHub\TestFramework\Serilog.Console\obj\Debug\Serilog.Console.exe
 C:\Users\Adem\Documents\GitHub\TestFramework\Serilog.Console\obj\Debug\Serilog.Console.pdb
+C:\Users\Adem\Documents\GitHub\TestFramework\Serilog.Console\bin\Debug\Serilog.Formatting.Compact.dll
+C:\Users\Adem\Documents\GitHub\TestFramework\Serilog.Console\bin\Debug\Serilog.Formatting.Compact.xml

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Serilog.Formatting.Compact;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,6 +14,9 @@ namespace Serilog.Console
             Log.Logger = new LoggerConfiguration()
             .MinimumLevel.Information()
             .WriteTo.Console()
+            //.WriteTo.File(new CompactJsonFormatter(),"log.json",
+            //    rollingInterval: RollingInterval.Day,
+            //    rollOnFileSizeLimit: true)
             .WriteTo.File("log.txt",
                 rollingInterval: RollingInterval.Day,
                 rollOnFileSizeLimit: true)
