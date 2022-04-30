@@ -1,0 +1,2 @@
+{"@t":"2022-04-30T17:51:11.7376921Z","@mt":"Hello, Serilog!"}
+{"@t":"2022-04-30T17:51:11.9717055Z","@mt":"Hata oluştu.","@l":"Error","@x":"System.Exception: 'System.Exception' türünde özel durum oluşturuldu.\r\n   konum: Serilog.Console.Program.Main(String[] args) C:\\Users\\Adem\\Documents\\GitHub\\TestFramework\\Serilog.Console\\Program.cs içinde: satır 30"}

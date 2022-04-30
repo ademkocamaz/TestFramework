@@ -14,12 +14,12 @@ namespace Serilog.Console
             Log.Logger = new LoggerConfiguration()
             .MinimumLevel.Information()
             .WriteTo.Console()
-            //.WriteTo.File(new CompactJsonFormatter(),"log.json",
-            //    rollingInterval: RollingInterval.Day,
-            //    rollOnFileSizeLimit: true)
-            .WriteTo.File("log.txt",
+            .WriteTo.File(new CompactJsonFormatter(), "log.json",
                 rollingInterval: RollingInterval.Day,
                 rollOnFileSizeLimit: true)
+            //.WriteTo.File("log.txt",
+            //    rollingInterval: RollingInterval.Day,
+            //    rollOnFileSizeLimit: true)
             .CreateLogger();
 
             Log.Information("Hello, Serilog!");
