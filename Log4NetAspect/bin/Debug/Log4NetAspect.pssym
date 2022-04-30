@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbols LinesOfCode="106" PostSharpLinesOfCode="0" EnhancedTypesCount="1" SchemaVersion="1" PostSharpVersion="6.10.10.0" xmlns="http://schemas.postsharp.org/2.0/symbols">
+  <Class Class="#1=T:[Log4NetAspect]Log4NetAspect.LogAspect">
+    <Instance Declaration="#2=T:[Log4NetAspect]Log4NetAspect.TestClass" Id="5a60a79964b25bb4">
+      <Target Target="#3=M:[Log4NetAspect]Log4NetAspect.TestClass::TestMethod()" LinesAvoided="2">
+        <JoinPoint Description="#4=Wrapped by advice(s) OnEntry" Ordinal="0" />
+      </Target>
+      <Target Target="#5=M:[Log4NetAspect]Log4NetAspect.TestClass::Test2Method()" LinesAvoided="2">
+        <JoinPoint Description="#4" />
+      </Target>
+    </Instance>
+  </Class>
+  <Annotation Target="#6=M:[Log4NetAspect]Log4NetAspect.LogAspect::OnEntry(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#7=2" Description="#8=PostSharp estimates that 2 lines of code are saved every time this advice is applied. Use the [LinesOfCodeAvoided] attribute on the aspect or specify the LinesOfCodeAvoided property on the advice attribute to override this value." />
+</Symbols>
