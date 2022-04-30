@@ -1,0 +1,16 @@
+C:\Users\Adem\Documents\GitHub\TestFramework\Serilog.Console\bin\Debug\Serilog.Console.exe.config
+C:\Users\Adem\Documents\GitHub\TestFramework\Serilog.Console\bin\Debug\Serilog.Console.exe
+C:\Users\Adem\Documents\GitHub\TestFramework\Serilog.Console\bin\Debug\Serilog.Console.pdb
+C:\Users\Adem\Documents\GitHub\TestFramework\Serilog.Console\bin\Debug\Serilog.dll
+C:\Users\Adem\Documents\GitHub\TestFramework\Serilog.Console\bin\Debug\Serilog.Sinks.Console.dll
+C:\Users\Adem\Documents\GitHub\TestFramework\Serilog.Console\bin\Debug\Serilog.Sinks.File.dll
+C:\Users\Adem\Documents\GitHub\TestFramework\Serilog.Console\bin\Debug\Serilog.xml
+C:\Users\Adem\Documents\GitHub\TestFramework\Serilog.Console\bin\Debug\Serilog.Sinks.Console.xml
+C:\Users\Adem\Documents\GitHub\TestFramework\Serilog.Console\bin\Debug\Serilog.Sinks.File.pdb
+C:\Users\Adem\Documents\GitHub\TestFramework\Serilog.Console\bin\Debug\Serilog.Sinks.File.xml
+C:\Users\Adem\Documents\GitHub\TestFramework\Serilog.Console\obj\Debug\Serilog.Console.csproj.AssemblyReference.cache
+C:\Users\Adem\Documents\GitHub\TestFramework\Serilog.Console\obj\Debug\Serilog.Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adem\Documents\GitHub\TestFramework\Serilog.Console\obj\Debug\Serilog.Console.csproj.CoreCompileInputs.cache
+C:\Users\Adem\Documents\GitHub\TestFramework\Serilog.Console\obj\Debug\Serilog.Console.csproj.CopyComplete
+C:\Users\Adem\Documents\GitHub\TestFramework\Serilog.Console\obj\Debug\Serilog.Console.exe
+C:\Users\Adem\Documents\GitHub\TestFramework\Serilog.Console\obj\Debug\Serilog.Console.pdb
