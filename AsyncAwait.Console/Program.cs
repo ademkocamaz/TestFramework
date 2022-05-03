@@ -51,10 +51,11 @@ namespace AsyncAwait.Console
 
         private static async void callMethod()
         {
-            Task<int> task = Method1();
+            //Task<int> task = Method1();
+            //await Method1();
+            int count = await Method1();
             Method2();
-            int count = await task;
-            //int count = await Method1();
+            //int count = await task;
             Method3(count);
         }
 
@@ -64,7 +65,7 @@ namespace AsyncAwait.Console
             int count = 0;
             await Task.Run(() =>
             {
-                for (int i = 0; i < 100; i++)
+                for (int i = 0; i < 50; i++)
                 {
                     System.Console.WriteLine("Method 1 / " + i);
                     Task.Delay(100).Wait();
@@ -76,7 +77,7 @@ namespace AsyncAwait.Console
 
         private static void Method2()
         {
-            for (int i = 0; i < 25; i++)
+            for (int i = 0; i < 50; i++)
             {
                 System.Console.WriteLine("Method 2 / " + i);
                 Task.Delay(100).Wait();

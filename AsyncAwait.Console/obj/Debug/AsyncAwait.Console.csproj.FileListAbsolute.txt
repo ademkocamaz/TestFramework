@@ -6,3 +6,11 @@ C:\Users\Adem\source\repos\TestFramework\AsyncAwait.Console\obj\Debug\AsyncAwait
 C:\Users\Adem\source\repos\TestFramework\AsyncAwait.Console\obj\Debug\AsyncAwait.Console.csproj.CoreCompileInputs.cache
 C:\Users\Adem\source\repos\TestFramework\AsyncAwait.Console\obj\Debug\AsyncAwait.Console.exe
 C:\Users\Adem\source\repos\TestFramework\AsyncAwait.Console\obj\Debug\AsyncAwait.Console.pdb
+C:\Users\Adem\Documents\GitHub\TestFramework\Build\Debug\AsyncAwait.Console.exe.config
+C:\Users\Adem\Documents\GitHub\TestFramework\Build\Debug\AsyncAwait.Console.exe
+C:\Users\Adem\Documents\GitHub\TestFramework\Build\Debug\AsyncAwait.Console.pdb
+C:\Users\Adem\Documents\GitHub\TestFramework\AsyncAwait.Console\obj\Debug\AsyncAwait.Console.csproj.AssemblyReference.cache
+C:\Users\Adem\Documents\GitHub\TestFramework\AsyncAwait.Console\obj\Debug\AsyncAwait.Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adem\Documents\GitHub\TestFramework\AsyncAwait.Console\obj\Debug\AsyncAwait.Console.csproj.CoreCompileInputs.cache
+C:\Users\Adem\Documents\GitHub\TestFramework\AsyncAwait.Console\obj\Debug\AsyncAwait.Console.exe
+C:\Users\Adem\Documents\GitHub\TestFramework\AsyncAwait.Console\obj\Debug\AsyncAwait.Console.pdb
